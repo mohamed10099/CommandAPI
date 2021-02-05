@@ -12,6 +12,7 @@ namespace CommandAPI.Models
         public string Platform {get; set;}
         [Required]
         public string CommandLine {get; set;}
+        // comment
 
     }
 }
