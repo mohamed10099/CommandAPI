@@ -1,5 +1,5 @@
 using System.ComponentModel.DataAnnotations;
-namespace CommandsAPI.Models{
+namespace CommandAPI.Models{
     public class Command{
         [Key]
         [Required]
